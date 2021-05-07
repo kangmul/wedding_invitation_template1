@@ -1,0 +1,46 @@
+body{
+font-family: 'Satisfy',
+cursive;
+}
+.herojumbotron{
+   height: 500px;
+   background-image: linear-gradient(to bottom, #961722, #85294D);
+}
+.jumbotron img{
+   width: 380px;
+   position: relative;
+   left: 0;
+   bottom: 0;
+}
+
+.herojumbotron h1 {
+   color: white;
+   font-family: 'Satisfy',
+   cursive;
+}
+section#bigmempelai{
+   height: 800px;
+}
+
+#bigmempelai .dan{
+   font-size: 150px;
+}
+
+section#bigmempelai img{
+   top: 0;
+   left: 0;
+   position: relative;
+   width: 20%;
+}
+.ucapansyukur{
+   font-size: 10px;
+}
+
+.mempelai {
+   font-family: 'Poller One',
+   cursive;
+}
+
+.mapouter{
+   text-align: center;
+}
